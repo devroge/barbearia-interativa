@@ -1,5 +1,5 @@
 # barbearia-interativa
-// . A barbearia que faz interação entre indivíduos/clientes, através da troca de dados e/ou informações.
+// . A barbearia que faz interação entre indivíduos/clientes, através da troca de dados e/ou informações. Além de um espaço social que conectará instituições de acolhimento e profissionais que quiserem se voluntariar.
 import java.util.Scanner
 
 // Classe para representar um cliente
