@@ -1,9 +1,9 @@
 # barbearia-interativa
-// . A barbearia que faz interação entre indivíduos/clientes, através da troca de dados e/ou informações. Além de um espaço social que conectará instituições de acolhimento e profissionais que quiserem se voluntariar.
+//A barbearia que faz interação entre indivíduos/clientes, através da troca de dados e/ou informações. Além de um espaço social que conectará instituições de acolhimento e profissionais que quiserem se voluntariar.//
 import java.util.Scanner
 
-// Classe para representar um cliente
-data class Cliente(val nome: String, val horario: String)
+//Classe para representar um cliente
+data class Cliente(val nome: String, val horario: String)//
 
 fun main() {
     val scanner = Scanner(System.`in`)
